@@ -1,1 +1,0 @@
-import{o as s,c as e,w as r,i as a,f as o}from"./index-df4bd8a0.js";import{_ as t}from"./plugin-vueexport-helper.1b428a4d.js";const n=t({},[["render",function(t,n){const f=a;return s(),e(f,{class:""},{default:r((()=>[o("店铺")])),_:1})}]]);export{n as default};

@@ -1,0 +1,1 @@
+import{R as e,M as t}from"./index-a8c3b4ae.js";import"./apis.7443bd4e.js";const r=(e,t,r,s=1)=>{const n=Array.from({length:e},((e,t)=>t)).length;for(let o=t-s;o<=t+s;o++){let e=o;if(e<0?e=(e+n)%n:e>=n&&(e%=n),e===r)return!0}return!1},s=()=>{e({title:"提示",content:"页面有误将返回首页",showCancel:!1,success:e=>{e.confirm&&t({url:"/pages/index/index"})}})};export{r as a,s as g};
